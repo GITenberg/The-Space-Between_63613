@@ -1,0 +1,41 @@
+_repo: The-Space-Between_63613
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Eberle, Joseph
+    aliases:
+    - Eberle, J. R.
+    - Eberle, Joseph R.
+    birthdate: 1926
+    deathdate: 2006
+    gutenberg_agent_id: '52485'
+    url: http://www.gutenberg.org/2009/agents/52485
+creator:
+  author:
+    agent_name: Gilbert, Robert E.
+    aliases:
+    - Gilbert,  R. E.
+    - Gilbert, Robert Ernest
+    birthdate: 1924
+    deathdate: 1993
+    gutenberg_agent_id: '34313'
+    url: http://www.gutenberg.org/2009/agents/34313
+description: ''
+gutenberg_issued: '2020-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: The Space Between
+url: http://www.gutenberg.org/ebooks/63613
